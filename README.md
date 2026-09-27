@@ -24,3 +24,5 @@ Any referenced contract activity is **operator-only testing** and does not estab
 - [Contracts](https://github.com/kuneeapp/kunee-contracts)
 
 Contact [support@kunee.app](mailto:support@kunee.app) with questions.
+
+[Documentation preview release](https://github.com/kuneeapp/kunee-wallet-examples/releases/tag/v0.1.0-preview) · Not a production software release.
