@@ -11,7 +11,7 @@ This folder is a **documentation-only sample** showing how to discuss wallet rev
 
 ## Status and safe use
 
-The `0.1.0-preview` documentation-only prerelease is planned; it is not a wallet software release. The example values are invented and must not be treated as addresses, live transaction data, or production guidance. Never add seed phrases, private keys, user information, RPC credentials, or real transaction records.
+The documentation-only preview is not a wallet software release. The example values are invented and must not be treated as addresses, live transaction data, or production guidance. Never add seed phrases, private keys, user information, RPC credentials, or real transaction records.
 
 Any referenced contract activity is **operator-only testing** and does not establish public availability or a public-use workflow. For contract information, see only the [deployment record](https://github.com/kuneeapp/kunee-contracts/blob/main/DEPLOYMENTS.md).
 
@@ -25,4 +25,8 @@ Any referenced contract activity is **operator-only testing** and does not estab
 
 Contact [support@kunee.app](mailto:support@kunee.app) with questions.
 
-[Documentation preview release](https://github.com/kuneeapp/kunee-wallet-examples/releases/tag/v0.1.0-preview) · Not a production software release.
+## Open-source scope
+
+The material **in this repository** is available under the [MIT License](./LICENSE). Contributions to this repository are licensed the same way. The KUNEE application, unreleased source code, private infrastructure, and material outside this repository are **not** included. The license grants no rights to the KUNEE name or logos as trademarks and does not authorize use of any live service or operator-only contract.
+
+[Licensed documentation preview](https://github.com/kuneeapp/kunee-wallet-examples/releases/tag/v0.1.1-preview) · Not a production software release.
